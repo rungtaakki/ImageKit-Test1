@@ -1,0 +1,22 @@
+{
+  "name": "ImageKit-Test1",
+  "version": "0.1.0",
+  "summary": "A short description of ImageKit-Test1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Akshit Rungta/ImageKit-Test1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Akshit Rungta": "akshit@bowstringstudio.in"
+  },
+  "source": {
+    "git": "https://github.com/Akshit Rungta/ImageKit-Test1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ImageKit-Test1/Classes/**/*"
+}

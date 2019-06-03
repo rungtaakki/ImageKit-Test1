@@ -1,0 +1,16 @@
+PODS:
+  - ImageKit-Test1 (0.1.0)
+
+DEPENDENCIES:
+  - ImageKit-Test1 (from `../`)
+
+EXTERNAL SOURCES:
+  ImageKit-Test1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ImageKit-Test1: 8932a22232f709380469596d82302ea377b7d68e
+
+PODFILE CHECKSUM: 9540e97b11826ec8ea8511274be8bdb396837cc1
+
+COCOAPODS: 1.5.3
