@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ImageKit-Test1_Example' do
+  pod 'ImageKit-Test1', :path => '../'
+
+  target 'ImageKit-Test1_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
