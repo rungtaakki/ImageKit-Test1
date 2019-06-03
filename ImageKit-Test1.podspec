@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Akshit Rungta/ImageKit-Test1'
+  s.homepage         = 'https://github.com/rungtaakki/ImageKit-Test1'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Akshit Rungta' => 'akshit@bowstringstudio.in' }
-  s.source           = { :git => 'https://github.com/Akshit Rungta/ImageKit-Test1.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/rungtaakki/ImageKit-Test1.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
